@@ -16,7 +16,7 @@ body{
 .my{
     background-color: #0F1F35 ;
     height:700px ;
-    width: 260px;
+    width:min-content ;
     border: 0.5px solid #4a7194;
     border-radius: 20px;
     
